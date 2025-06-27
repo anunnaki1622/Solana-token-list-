@@ -1,0 +1,15 @@
+{
+  "name": "Liberty Coin",
+  "symbol": "LBC",
+  "decimals": 6,
+  "address": "Hi9usJj2sRkjnrDX4ianzmqD7u2gZzwctMCj8fmfiaWu",
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/TU_USUARIO/libertycoin-tokenlist/main/assets/mainnet/Hi9usJj2sRkjnrDX4ianzmqD7u2gZzwctMCj8fmfiaWu/logo.png",
+  "tags": ["deflacionario", "dao", "libertad", "token-latino", "economia-alternativa"],
+  "extensions": {
+    "website": "https://libertycoin.ar",
+    "twitter": "https://twitter.com/Libertycoin",
+    "telegram": "https://t.me/te.libertyjump",
+    "description": "LBC es un token soberano construido sobre Solana, diseñado como reserva de valor para comunidades que buscan independencia económica y financiera en Latinoamérica."
+  }
+}
